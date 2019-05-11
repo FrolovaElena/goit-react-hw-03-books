@@ -1,0 +1,40 @@
+.bookCard {
+  width: 300px;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  background-color: #fff;
+  flex: 0 0 calc(25% - 16px);
+  padding: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 16px;
+  overflow: hidden;
+}
+
+.bookCard img {
+  display: block;
+  max-width: 100%;
+  margin-bottom: 40px;
+}
+
+.title {
+  color: #323232;
+  margin-top: 0;
+  margin-bottom: 40px;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.text {
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #7e7e81;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #323232;
+}
