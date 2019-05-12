@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-03-books/build/static/css/main.ede6423d.chunk.css",
+    "main.css": "/goit-react-hw-03-books/build/static/css/main.eba156ce.chunk.css",
     "main.js": "/goit-react-hw-03-books/build/static/js/main.15b8cc02.chunk.js",
     "main.js.map": "/goit-react-hw-03-books/build/static/js/main.15b8cc02.chunk.js.map",
     "runtime~main.js": "/goit-react-hw-03-books/build/static/js/runtime~main.570f3f94.js",
@@ -8,8 +8,8 @@
     "static/js/2.eb3f9da6.chunk.js": "/goit-react-hw-03-books/build/static/js/2.eb3f9da6.chunk.js",
     "static/js/2.eb3f9da6.chunk.js.map": "/goit-react-hw-03-books/build/static/js/2.eb3f9da6.chunk.js.map",
     "index.html": "/goit-react-hw-03-books/build/index.html",
-    "precache-manifest.fe849de6664dd04478ab1f8b83c70021.js": "/goit-react-hw-03-books/build/precache-manifest.fe849de6664dd04478ab1f8b83c70021.js",
+    "precache-manifest.f4b87c1a83456f3fcd6faf38e2580c80.js": "/goit-react-hw-03-books/build/precache-manifest.f4b87c1a83456f3fcd6faf38e2580c80.js",
     "service-worker.js": "/goit-react-hw-03-books/build/service-worker.js",
-    "static/css/main.ede6423d.chunk.css.map": "/goit-react-hw-03-books/build/static/css/main.ede6423d.chunk.css.map"
+    "static/css/main.eba156ce.chunk.css.map": "/goit-react-hw-03-books/build/static/css/main.eba156ce.chunk.css.map"
   }
 }
