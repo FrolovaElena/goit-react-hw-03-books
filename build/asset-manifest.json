@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-03-books/static/css/main.4e1ef98f.chunk.css",
-    "main.js": "/goit-react-hw-03-books/static/js/main.15b8cc02.chunk.js",
-    "main.js.map": "/goit-react-hw-03-books/static/js/main.15b8cc02.chunk.js.map",
-    "runtime~main.js": "/goit-react-hw-03-books/static/js/runtime~main.1e7bb8d1.js",
-    "runtime~main.js.map": "/goit-react-hw-03-books/static/js/runtime~main.1e7bb8d1.js.map",
-    "static/js/2.eb3f9da6.chunk.js": "/goit-react-hw-03-books/static/js/2.eb3f9da6.chunk.js",
-    "static/js/2.eb3f9da6.chunk.js.map": "/goit-react-hw-03-books/static/js/2.eb3f9da6.chunk.js.map",
-    "index.html": "/goit-react-hw-03-books/index.html",
-    "precache-manifest.5de3090c32d088b114b83989a4754eae.js": "/goit-react-hw-03-books/precache-manifest.5de3090c32d088b114b83989a4754eae.js",
-    "service-worker.js": "/goit-react-hw-03-books/service-worker.js",
-    "static/css/main.4e1ef98f.chunk.css.map": "/goit-react-hw-03-books/static/css/main.4e1ef98f.chunk.css.map"
+    "main.css": "/goit-react-hw-03-books/build/static/css/main.ede6423d.chunk.css",
+    "main.js": "/goit-react-hw-03-books/build/static/js/main.15b8cc02.chunk.js",
+    "main.js.map": "/goit-react-hw-03-books/build/static/js/main.15b8cc02.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-03-books/build/static/js/runtime~main.570f3f94.js",
+    "runtime~main.js.map": "/goit-react-hw-03-books/build/static/js/runtime~main.570f3f94.js.map",
+    "static/js/2.eb3f9da6.chunk.js": "/goit-react-hw-03-books/build/static/js/2.eb3f9da6.chunk.js",
+    "static/js/2.eb3f9da6.chunk.js.map": "/goit-react-hw-03-books/build/static/js/2.eb3f9da6.chunk.js.map",
+    "index.html": "/goit-react-hw-03-books/build/index.html",
+    "precache-manifest.fe849de6664dd04478ab1f8b83c70021.js": "/goit-react-hw-03-books/build/precache-manifest.fe849de6664dd04478ab1f8b83c70021.js",
+    "service-worker.js": "/goit-react-hw-03-books/build/service-worker.js",
+    "static/css/main.ede6423d.chunk.css.map": "/goit-react-hw-03-books/build/static/css/main.ede6423d.chunk.css.map"
   }
 }
