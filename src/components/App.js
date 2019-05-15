@@ -24,12 +24,6 @@ export default class App extends Component {
     isLoading: false,
   };
 
-  componentDidMount() {
-    fetchBooks('fantasy').then(data => {
-      this.setState({ items: mapper(data.data.items) });
-    });
-  }
-
   componentDidUpdate(prevState) {
     const { genre: prevGenre } = prevState;
     const { genre: nextGenre } = this.state;
@@ -39,7 +33,7 @@ export default class App extends Component {
     }
   }
 
-  getBooks = (genre, query) => {
+  getBooks = (query, genre) => {
     this.setState({ isLoading: true });
 
     fetchBooks(genre, query)
@@ -54,7 +48,7 @@ export default class App extends Component {
       <Fragment>
         <SearchForm genres={genres} onSubmit={this.getBooks} />
         {isLoading && <Loader />}
-        {items.length > 0 && <BookList items={items} />}{' '}
+        {items.length > 0 && <BookList items={items} />}
       </Fragment>
     );
   }
